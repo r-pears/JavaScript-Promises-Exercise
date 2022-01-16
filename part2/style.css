@@ -1,0 +1,37 @@
+* {
+  text-align: center;
+  background-color: #D8D8FF;
+}
+
+.display-none {
+  display: none;
+}
+
+button {
+  margin-top: 70px;
+  font-size: 16px;
+  padding: 14px 16px;
+  border: 1px solid #000026;
+  color: #fff;
+  border-radius: 0 5px;
+  background-color: #000026;
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: #fff;
+  color: #000026;
+}
+
+#card-section {
+  height: 100vh;
+  width: 100vw;
+  margin-top: 200px;
+}
+
+#card-section > img {
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
