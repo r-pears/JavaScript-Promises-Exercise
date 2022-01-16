@@ -8,3 +8,4 @@ Calls Numbers API and console logs out the response.
 Calls Deck of Cards API and randomly draws a card until the deck is empty.
 
 # Part 3: Pokémon
+Calls the Pokémon API and displays three random pokémons including their name, image, and description.
